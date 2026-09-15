@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Marcos J Reyes, Digital Craftsman. Systems that remove friction. Built in public.">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/banner-mobile.svg">
+    <img src="assets/banner.svg" width="100%" alt="Marcos J Reyes, Digital Craftsman. Systems that remove friction. Built in public.">
+  </picture>
 </div>
 
 <p align="center">
