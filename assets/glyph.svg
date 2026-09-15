@@ -1,0 +1,8 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- KineticOS mark. Vault core r=17 at (50,50); engine sweep r=42, stroke 11,
+       240° arc from 12 o'clock clockwise. The gap (lower-left) is the seam — never fill it.
+       Light backgrounds: core #5B3FE0, sweep #E84400. Min 24px; below that use heavy-cut:
+       core r=20, path "M 50 6 A 44 44 0 1 1 11.9 72" stroke 15. -->
+  <circle cx="50" cy="50" r="17" fill="#7A5CFF"/>
+  <path d="M 50 8 A 42 42 0 1 1 13.6 71" fill="none" stroke="#FF4C00" stroke-width="11"/>
+</svg>
